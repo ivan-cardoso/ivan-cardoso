@@ -2,7 +2,7 @@
 ## 👨‍🦱 I'm Ivan Cardoso - Full Stack Developer
 
 ### 💻 My personal portfolio 
-**https://ivancardoso.netlify.app/**
+[**https://ivancardoso.netlify.app/**](https://ivancardoso.netlify.app)
 
 ### 👽 Stack
 * #### **`JavaScript`** | **`React`** | **`Redux`** | **`Node`** | **`Express`** | **`Sequelize`**   
