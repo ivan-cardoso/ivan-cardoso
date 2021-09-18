@@ -1,5 +1,15 @@
-### Hi there 👋
-### I'm Ivan Cardoso - Full Stack Developer 👋
+## Hi there 👋
+## I'm Ivan Cardoso - Full Stack Developer 👋
+
+### My personal portfolio 
+**https://ivancardoso.netlify.app/**
+
+### 👽 Stack
+* #### **`JavaScript`** | **`React`** | **`Redux`** | **`Node`** | **`Express`** | **`Sequelize`**   
+* #### **`HTML`** | **`CSS`** | **`Bootstrap`** | **`Sass`** 
+
+#### 📫 How to reach me:
+https://www.linkedin.com/in/ivan--cardoso/
 
 <!--
 **ivan-cardoso/ivan-cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
