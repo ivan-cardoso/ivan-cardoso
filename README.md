@@ -1,7 +1,7 @@
-## Hi there 👋
-## I'm Ivan Cardoso - Full Stack Developer 👋
+## 👋 Hi there 
+## 👨‍🦱 I'm Ivan Cardoso - Full Stack Developer
 
-### My personal portfolio 
+### 💻 My personal portfolio 
 **https://ivancardoso.netlify.app/**
 
 ### 👽 Stack
