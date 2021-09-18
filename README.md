@@ -8,6 +8,9 @@
 * #### **`JavaScript`** | **`React`** | **`Redux`** | **`Node`** | **`Express`** | **`Sequelize`**   
 * #### **`HTML`** | **`CSS`** | **`Bootstrap`** | **`Sass`** 
 
+### 🌱 I’m currently learning 
+* #### **`TypeScript`**  
+
 ### 📫 How to reach me:
 **https://www.linkedin.com/in/ivan--cardoso/**
 
