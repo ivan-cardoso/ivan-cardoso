@@ -8,7 +8,7 @@
 * #### **`JavaScript`** | **`React`** | **`Redux`** | **`Node`** | **`Express`** | **`Sequelize`**   
 * #### **`HTML`** | **`CSS`** | **`Bootstrap`** | **`Sass`** 
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 **https://www.linkedin.com/in/ivan--cardoso/**
 
 <!--
