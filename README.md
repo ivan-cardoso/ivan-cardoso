@@ -6,7 +6,7 @@
 
 ### 👽 Stack
 * #### **`JavaScript`** | **`React`** | **`Redux`** | **`Node`** | **`Express`** | **`Sequelize`**   
-* #### **`HTML`** | **`CSS`** | **`Bootstrap`** | **`Sass`** 
+* #### **`HTML`** | **`CSS`** | **`Tailwind`** | **`Sass`** | **`Bootstrap`**
 
 ### 🌱 I’m currently learning 
 * #### **`TypeScript`**  
